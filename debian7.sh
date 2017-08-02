@@ -138,6 +138,7 @@ wget -O menu "https://raw.githubusercontent.com/nifira123/debian7_32bit/naura/me
 wget -O usernew "https://raw.githubusercontent.com/nifira123/debian7_32bit/naura/usernew.sh"
 wget -O trial "https://raw.githubusercontent.com/nifira123/debian7_32bit/naura/trial.sh"
 wget -O hapus "https://raw.githubusercontent.com/nifira123/debian7_32bit/naura/hapus.sh"
+wget -O userlimitssh "https://raw.githubusercontent.com/aizeta/fogi/master/userlimitssh.sh"
 wget -O userlimit "https://raw.githubusercontent.com/aizeta/fogi/master/userlimit.sh"
 wget -O autokill "https://raw.githubusercontent.com/cyber4rt/debian7/master/autokill.sh"
 wget -O cek "https://raw.githubusercontent.com/nifira123/debian7_32bit/naura/user-login.sh"
