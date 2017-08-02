@@ -153,6 +153,7 @@ chmod +x menu
 chmod +x usernew
 chmod +x trial
 chmod +x hapus
+chmod +x userlimitssh
 chmod +x userlimit
 chmod +x autokill
 chmod +x cek
@@ -195,6 +196,7 @@ echo "menu (Menampilkan daftar perintah yang tersedia)"  | tee -a log-install.tx
 echo "usernew (Membuat Akun SSH)"  | tee -a log-install.txt
 echo "trial (Membuat Akun Trial)"  | tee -a log-install.txt
 echo "hapus (Menghapus Akun SSH)"  | tee -a log-install.txt
+echo "userlimitssh (userlimitssh Akun SSH)"  | tee -a log-install.txt
 echo "userlimit (userlimit Akun SSH)"  | tee -a log-install.txt
 echo "autokill (autokill Akun SSH)"  | tee -a log-install.txt
 echo "cek (Cek User Login)"  | tee -a log-install.txt
